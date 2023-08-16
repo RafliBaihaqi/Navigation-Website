@@ -1,0 +1,115 @@
+{
+	"folders": [
+		{
+			"path": "../Gmaps"
+		},
+		{
+			"path": "../Mapbox"
+		},
+		{
+			"path": "../STT"
+		},
+		{
+			"path": "../../OLD/Desktop/Belajar WebDev"
+		},
+		{
+			"path": "../../OLD/Desktop/WD"
+		},
+		{
+			"path": "../../../Downloads/Compressed/4.0-File-Paths"
+		},
+		{
+			"path": "../../../Downloads/Compressed/3.4-Birthday-Invite-Project"
+		},
+		{
+			"path": "../../../Downloads/Compressed/3.3-Image-Elements"
+		},
+		{
+			"path": "../../../Downloads/Compressed/3.0-List-Elements"
+		},
+		{
+			"path": "../../../Downloads/Compressed/4.1-Webpages"
+		},
+		{
+			"path": "../../../Downloads/Compressed/4.3-HTML-Portfolio-Project"
+		},
+		{
+			"path": "../../../Downloads/Compressed/5.1-Adding-CSS"
+		},
+		{
+			"path": "../../../Downloads/Compressed/5.3 CSS Selectors"
+		},
+		{
+			"path": "../../../Downloads/Compressed/5.4 Color Vocab Project"
+		},
+		{
+			"path": "../../../Downloads/Compressed/6.0-CSS-Colors/6.0 CSS Colors"
+		},
+		{
+			"path": "../../../Downloads/Compressed/6.1 Font Properties"
+		},
+		{
+			"path": "../../../Downloads/6.3+CSS+Box+Model"
+		},
+		{
+			"path": "../../../Downloads/6.4+Motivation+Meme+Project/6.4 Motivation Meme Project"
+		},
+		{
+			"path": "../../../Downloads/7.0 CSS Cascade"
+		},
+		{
+			"path": "../../../Downloads/7.1+Combining+Selectors"
+		},
+		{
+			"path": "../../../Downloads/7.2+CSS+Positioning"
+		},
+		{
+			"path": "../../../Downloads/7.3+Flag+Project/7.3 CSS Flag Project"
+		},
+		{
+			"path": "../../../Downloads/8.0+CSS+Display/8.0 CSS Display"
+		},
+		{
+			"path": "../../../Downloads/8.1+CSS+Float/8.1 CSS Float"
+		},
+		{
+			"path": "../../../Downloads/8.2+Responsiveness/8.2 Responsiveness"
+		},
+		{
+			"path": "../../../Downloads/8.3+Media+Query/8.3 Media Query"
+		},
+		{
+			"path": "../../../Downloads/8.4+Web+Design+Agency+Project/8.4 Web Design Agency Project"
+		},
+		{
+			"path": "../../../Downloads/9.0+Display+Flex/9.0 Display Flex"
+		},
+		{
+			"path": "../../../Downloads/9.1+Flex+Direction/9.1 Flex Direction"
+		},
+		{
+			"path": "../../../Downloads/9.4+Flexbox+Pricing+Table+Project/9.4 Flexbox Pricing Table Project"
+		},
+		{
+			"path": "../../../Downloads/10.0+Display+Grid/10.0 Display Grid"
+		},
+		{
+			"path": "../../../Downloads/Compressed/webapp-protel-main"
+		},
+		{
+			"path": "../API"
+		},
+		{
+			"path": "../Backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5509,
+		"editor.tabCompletion": "on",
+		"diffEditor.codeLens": true,
+		"liveServer.settings.multiRootWorkspaceName": "Gmaps"
+	}
+}
