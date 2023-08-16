@@ -16,17 +16,15 @@ Requirements for the software and other tools to build, test and push
 - [Python](https://www.python.org/downloads/)
 
 ### Installing
+Download the latest version of python and node.js from each of their website and follow the installation instruction
 
-A step by step series of examples that tell you how to get a development
-environment running
-
-Just follow the installation instruction after you download the latest version of node.js
 When the installation is finished check the node version using
 
     node -v
 
-End with an example of getting some data out of the system or using it
-for a little demo
+And for pyhton check the python version using
+
+    python --version
 
 ## Running the tests
 
@@ -48,6 +46,25 @@ Checks if the best practices and the right coding style has been used.
 
 Add additional notes to deploy this on a live system
 
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Sample Tests
+
+Explain what these tests test and why
+
+    Give an example
+
+### Style test
+
+Checks if the best practices and the right coding style has been used.
+
+    Give an example
+
+## Deployment
+
+Add additional notes to deploy this on a live system
 ## Built With
 
   - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
