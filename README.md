@@ -14,57 +14,55 @@ for notes on deploying the project on a live system.
 Requirements for the software and other tools to build, test and push 
 - [Node.js](https://nodejs.org/en)
 - [Python](https://www.python.org/downloads/)
+- [Xampp](https://www.apachefriends.org/download.html)
+- [Express](http://expressjs.com/en/starter/installing.html)
 
 ### Installing
-Download the latest version of python and node.js from each of their website and follow the installation instruction
+Download the latest version of the required prerequisites from each of their website and follow the installation instruction
 
-When the installation is finished check the node version using
+When the installation is finished check the node version using terminal and type the following command
 
     node -v
 
-And for pyhton check the python version using
+For pyhton check the version using
 
     python --version
 
-## Running the tests
+For express check the version using
 
-Explain how to run the automated tests for this system
+    npm list express
 
-### Sample Tests
+## Running the server Code
 
-Explain what these tests test and why
+To run this program you need to open integrated terminal of the main folder and run the following command
 
-    Give an example
+    node server.js
+What this command does is it will run the program locally on certain port on your machine.
 
-### Style test
+Open the website on your browser with the following code. Dont forget to replace your_port with your port number
 
-Checks if the best practices and the right coding style has been used.
+    localhost:your_port
 
-    Give an example
+## Running the data Code
 
-## Deployment
+This program will receive the coordinates data from sim808 and store the data to MYSQL database
 
-Add additional notes to deploy this on a live system
+To run the data code run the following command in integrated terminal of the Main folder
 
-## Running the tests
+    pyhton data.py
+    
+Open the website on your browser with the following code. Dont forget to replace your_port with your port number
 
-Explain how to run the automated tests for this system
+    localhost:your_port
 
-### Sample Tests
+## Running the API
 
-Explain what these tests test and why
+The API will send the data stored in the MySQL database to the navigation website so that the website can obtain the user's position in real-time
 
-    Give an example
+To run the API run the following command in integrated terminal of the API folder
 
-### Style test
+    pyhton app.py
 
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
 ## Built With
 
   - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
